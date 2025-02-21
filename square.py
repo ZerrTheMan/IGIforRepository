@@ -1,4 +1,4 @@
-
+#changes of square file
 def area(a):
     return a * a
 
